@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+
+.content{
+	background-color: gray;
+	margin-top:20px;
+	height:80px;
+}
+
+
+.content:hover{
+	background-color: red;
+}
